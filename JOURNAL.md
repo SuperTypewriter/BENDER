@@ -12,3 +12,8 @@ I AM SO SORRY SMITH CORONA! I have salvaged the main PCB. I've taken most of the
 I doooo think I can use some of the things here to control the type head, the carriage stepper, etc. but that's a work in progress. ![IMG_8270.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c193a3c6495a7e8ed740a6aa8b8778c6e6f321b5/IMG_8270.jpg)
   
 
+## 10/26/2025 - H bridges arrived! And wired...  
+
+So, of course, driving the motor is a.. pretty important part of this project. And wouldn't you know it, I've got just the way to do it!! I am driving the motor with the included power supply via a L298N. it should be running alright. it's got plenty force, more than enough to make an audible "THWACK"![IMG_8345](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--94478f6c5ae3b5bfe47ad436bdaf9dfea0e092a5/IMG_8345.jpg)
+  
+

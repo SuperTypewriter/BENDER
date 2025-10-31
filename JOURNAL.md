@@ -17,3 +17,10 @@ I doooo think I can use some of the things here to control the type head, the ca
 So, of course, driving the motor is a.. pretty important part of this project. And wouldn't you know it, I've got just the way to do it!! I am driving the motor with the included power supply via a L298N. it should be running alright. it's got plenty force, more than enough to make an audible "THWACK"![IMG_8345](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--94478f6c5ae3b5bfe47ad436bdaf9dfea0e092a5/IMG_8345.jpg)
   
 
+## 10/31/2025 - Programming PT1? 0.5?  
+
+Okay, so, programming! did some. there's more than what I've put in this image. Anyways! I am so new to this. it was a bit of a headache. I feel like, uh, maybe I should have started learning to code earlier in my life. Anyways, I actually plan to only have thisssssss part interpreted in the arduino. the part that just sends out signals. Then, what sends THIS signals, and what actually times the beats, is made by PYTHON. Which will be another headache. and that will take me a while. But, I believe I can, so![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--83314fcad10354d9c46af9f30728270079786de6/image.png)
+ I proooobably maybe kinda sorta (I hope) can. 
+
+(picture not included but...) I have also wired the stepper! which is actually what this code is for! and it took me a while to figure out wiring a unipolar stepper motor as bipolar ( and mapping out the coils which was easier than I anticipated )  
+

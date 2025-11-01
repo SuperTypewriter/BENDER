@@ -26,3 +26,10 @@ boom. there u go. there's your very own bender *tm*
 
 
 the input file has some gibberish for you to see how it works
+
+
+
+
+
+
+This project was made with mostly all things I had laying about, besides the 2 H bridges :3 
